@@ -65,3 +65,7 @@ p.callout{
 #secondLayout #para1 {grid-area: p3; }
 #secondLayout #para1 {grid-area: p4; }
 #secondLayout #callout1 {grid-area: c1; }
+
+#secondLayout p{
+    width: 100%;
+}
