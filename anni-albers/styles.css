@@ -41,6 +41,12 @@ p.callout{
     margin-left: calc(100% * 2 /6)
 }
 
+#row5 p {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
 /* ************************************** */
 /* CSS for index2 */
 /* ************************************** */
@@ -59,15 +65,15 @@ p.callout{
 }
 
 /* assigning grid area names to DOM elements */
-#secondLayout #titleRow{grid-area: title;}
+#secondLayout #titleRow {grid-area: title;}
 #secondLayout #para1 {grid-area: p1; }
 #secondLayout #para1 {grid-area: p2; }
 #secondLayout #para1 {grid-area: p3; }
 #secondLayout #para1 {grid-area: p4; }
 #secondLayout #callout1 {grid-area: c1; }
 
-/*override the baseline p styles from above */
-#secondLayout p{
+/* override the baseline p styles from above */
+#secondLayout p {
     width: 100%;
 }
 
@@ -77,5 +83,4 @@ p.callout{
 
 #secondLayout section h1 {
     padding-top: 60vh;
-
 }
