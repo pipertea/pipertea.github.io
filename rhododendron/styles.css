@@ -1,6 +1,6 @@
 /* mobile-first design for Pacific rhodendron layout */
 
-*    {
+* {
     box-sizing: border-box;
 }
 
@@ -39,16 +39,19 @@ header {
 }
 
 @media screen and (orientation: landscape) {
-    #rhodiPic width: 50vw;
-}
 
-#rhodiTitle {
+    #rhodiePic {
+        width: 50vw;
+    }
+
+    #rhodiTitle {
         width: 50vw;
         left: 50vw;
         background-color: #333;
-}
+    }
 
-#rhodiTitle h1 {
+    #rhodiTitle h1 {
         width: 45vw;
         left: 50vw;
+    }
 }
