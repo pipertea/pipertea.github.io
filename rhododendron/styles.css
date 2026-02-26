@@ -38,6 +38,12 @@ header {
     width: calc(100vw-2em);
 }
 
+#info {
+    position: absolute;
+    width: 25vw;
+    height: 25vh;
+}
+
 /* PUT THE REST OF THE LAYOUT MOBILE BASELINE HERE */
 
 @media screen and (orientation: landscape) {
