@@ -10,8 +10,8 @@ body {
     color: white;
     align-content: right;
     background-image: url("rhod.jpg");
-    background-size: cover;
-    background-position: center center;
+    background-size: left;
+    background-position: left;
     background-repeat: no-repeat;
 }
 
