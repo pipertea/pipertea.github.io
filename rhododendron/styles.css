@@ -40,10 +40,12 @@ header {
 
 #info {
     position: absolute;
-    width: 25vw;
-    height: 25vh;
+    width: 50vw;
+    height: 50vh;
     color: white;
 }
+
+
 
 /* PUT THE REST OF THE LAYOUT MOBILE BASELINE HERE */
 
