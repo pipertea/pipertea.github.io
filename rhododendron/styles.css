@@ -41,8 +41,8 @@ header {
 
 #info {
     position: absolute;
-    width: 90vw;
-    height: 90vh;
+    width: 40;
+    height: 40vh;
     color: white;
 }
 
