@@ -53,7 +53,7 @@ header {
 @media screen and (orientation: landscape) {
 
     #rhodiePic {
-        width: 50vw;
+        width: 50000vw;
     }
 
     #rhodiTitle {
