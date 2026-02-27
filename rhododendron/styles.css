@@ -42,7 +42,7 @@ header {
 @media screen and (orientation: landscape) {
 
     #rhodiePic {
-    padding: 0;
+    padding: 5;
     margin: 10;
     color: white;
     align-content: right;
