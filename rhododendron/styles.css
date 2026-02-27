@@ -42,7 +42,14 @@ header {
 @media screen and (orientation: landscape) {
 
     #rhodiePic {
-        width: 50vw;
+    padding: 0;
+    margin: 0;
+    color: white;
+    align-content: right;
+    background-image: url("rhod.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     }
 
     #rhodiTitle {
