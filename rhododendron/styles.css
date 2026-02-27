@@ -9,8 +9,9 @@ body {
     margin: 60;
     width: 40;
     height: 40vh;
-    color: black;
+    color: white;
     align-content: right;
+    background-image: url("rhod.jpg");;
 }
 
 header {
@@ -22,7 +23,6 @@ header {
     position: absolute;
     width: 100vw;
     height: 100vh;
-    background-image: url("rhod.jpg");
     background-size: cover;
     background-position: center center;
 }
