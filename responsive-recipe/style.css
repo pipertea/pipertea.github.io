@@ -1,7 +1,13 @@
 /* mobile-first design for Responsive Recipe layout */
 
-* {
-    box-sizing: border-box;
+* main {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+main {
+    font-size: 3rem;
 }
 
 body {
@@ -40,6 +46,16 @@ header {
 /* PUT THE REST OF THE LAYOUT MOBILE BASELINE HERE */
 
 @media screen and (orientation: landscape) {
+
+    main {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+main{
+    font-size: 3rem;
+}
 
     #pestoIMG {
     padding: 10;
