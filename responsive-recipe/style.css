@@ -9,9 +9,8 @@
 
 body {
     padding: 0;
-    margin: 0;
+    margin: 10;
     color: black;
-    align-content: right;
     background-image: url("pesto.jpeg");
     background-size: cover;
     background-position: absolute;
@@ -56,9 +55,7 @@ header {
     margin: 20;
     color: black;
     align-content: left;
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
+
     }
 
     #recipeHEADER {
