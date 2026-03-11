@@ -1,0 +1,61 @@
+/* mobile-first design for Responsive Recipe layout */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    color: white;
+    align-content: right;
+    background-image: url("pesto.jpeg");
+    background-size: cover;
+    background-position: absolute;
+    background-repeat: no-repeat;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+}
+
+#rhodiTitle {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+#rhodiTitle h1 {
+    position: absolute;
+    bottom: 0;
+    left: 3em;
+    color: white;
+    font-size: 2.5em;
+    width: calc(100vw-2em);
+}
+
+
+
+/* PUT THE REST OF THE LAYOUT MOBILE BASELINE HERE */
+
+@media screen and (orientation: landscape) {
+
+    #pestoIMG {
+    padding: 10;
+    margin: 30;
+    color: white;
+    align-content: left;
+    background-image: url("rhod.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    }
+
+    #recipeHEADER {
+        width: 40vw;
+        left: 40vw;
+        background-color: green;
+    }
+
+}
