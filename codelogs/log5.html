@@ -28,6 +28,28 @@
     <section>
         <h2>What are the differences between presenting an image using an HTML tag and presenting it as the background
             of an HTML element?</h2>
-        <p></p>
+        <p>The semantics determine the difference between using images in an HTML tag versus using the image as the
+            background of an HTML element. It lies in the way that images tags describe the page's content while a
+            background-image property describe the image as part of the page's design or layout. The img tag is great
+            for when printing out something is needed because if background-image properties are being used, they will
+            not show up on the printed version of whatever website in use. For example, HTML image tags are implemented into the page source and aren't as flexible as CSS properties, where their positioning, tilt, and layering can be edited.</p>
+    
+        <h2>Besides background-image, what other CSS properties affect the display of background images?</h2>
+            <ol>
+                <li>background-size: This CSS property controls how big the image will display on one's screen, i.e., a cover that displays the original ratio of the picture over whichever area the coder sets.</li>
+            <li>background-color: This function displays a color backing to the image in case there is failure to load the image or transparency issues and can be replaced by the indicated color.</li>   
+        </ol>
+
+        <h2>In one sentence, how would you define the differences between dimensions and resolution in a bitmap image?</h2>
+        <p>Dimensions correlate to the pixel count of the width and height that describes the image pixel area, and resolution correlates to the density and specificity of the pixeled area, and ultimately, determines the image's photo quality (pixels per inch).</p>
+    
+        <h2>What are the similarities and differences between these image file formats? Why are some better than others for specific uses?</h2>
+        <ul>
+            <li>JPG/JPEG: raster format, condense data to create smaller files, does not support transparent images, does not support animations, best format for complex photos</li>
+            <li>SVG: vector format, condense data to create smaller files, can support animations if coded, great for icons, logos, and illustrations for scalability advantages</li>
+            <li>PNG: raster format, preserve image quality, supports translucent edges, does not support animations, best format for transparent photos, logos, or screenshots</li>
+            <li>GIF: raster format, preserve image quality, supports the form of 1-bit transparency, original format of animations, simple, low-color animation format</li>
+            <li>WEBP: ratser format, preserve image quality, supports translucent edges, compresses animations better than GIFs, used across the web for its versatality and faster loading images</li>
+        </ul>
     </section>
 </body>
