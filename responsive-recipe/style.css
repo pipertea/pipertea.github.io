@@ -1,10 +1,10 @@
 /* mobile-first design for Responsive Recipe layout */
 
-* main h1 {
+* header h1 {
     width: 80%;
     max-width: 1100px;
-    margin: 0 auto;
-    font-size: 1rem;
+    margin: 10 auto;
+    font-size: 3rem;
 }
 
 body {
