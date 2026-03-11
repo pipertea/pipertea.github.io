@@ -1,6 +1,6 @@
 /* mobile-first design for Responsive Recipe layout */
 
-* main {
+* main h1 {
     width: 80%;
     max-width: 1100px;
     margin: 0 auto;
