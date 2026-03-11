@@ -10,7 +10,7 @@
 body {
     padding: 0;
     margin: 0;
-    color: white;
+    color: black;
     align-content: right;
     background-image: url("pesto.jpeg");
     background-size: cover;
@@ -53,10 +53,9 @@ header {
 
     #pestoIMG {
     padding: 10;
-    margin: 30;
-    color: white;
+    margin: 20;
+    color: black;
     align-content: left;
-    background-image: url("rhod.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
