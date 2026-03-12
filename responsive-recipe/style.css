@@ -92,8 +92,8 @@ header p {
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
-        width: 25px;
-        height: auto;
+        width: auto;
+        height: 25px;
         background-color: green;
         float: left;
         margin-right: 20px;
