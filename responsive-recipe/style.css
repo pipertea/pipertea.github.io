@@ -42,7 +42,6 @@ header p {
     bottom: 5;
     color: black;
     font-size: 1rem;
-    max-width: 100%;
 }
 
 #pestoImage {
@@ -52,7 +51,6 @@ header p {
         align-content: center;
         background-image: url("pesto.jpeg");
         background-position: cover;
-        position: absolute;
         background-repeat: no-repeat;
         height: auto;
         background-color: green;
@@ -90,10 +88,11 @@ header p {
         padding: 10;
         margin: 5;
         color: black;
+        align-content: left;
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
-        width: 50vw;
+        max-width: 30vw;
         height: auto;
         background-color: green;
         float: right;
