@@ -61,6 +61,7 @@ header p {
         border: none;
         font: auto;
         border-radius: 8px; /* Rounds the corners */
+        margin-bottom: 15px;
     }
 
     #pestoImage {
