@@ -97,11 +97,11 @@ header p {
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
-        width: auto;
-        height: 25px;
+        width: 40vw;
+        height: 40vh;
         background-color: green;
         float: left;
-        margin-left: 50%;
+        margin-left: 45%;
     }
 
 * header h1 {
