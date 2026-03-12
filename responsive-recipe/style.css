@@ -68,7 +68,7 @@ header p {
     #main {
         width: 80%;
         max-width: 1100px;
-        margin: 10;
+        margin: 0;
         font-size: 16px;
         color: black;
     }
@@ -113,7 +113,7 @@ header p {
 
 body {
     padding: 0;
-    margin-left: 5;
+    margin-left: 0;
     color: black;
     font-size: 16px;
 }
@@ -132,6 +132,7 @@ header p {
     color: black;
     font-size: 16px;
     width: 40vw;
+    margin: 0;
 }
 
 #ingredients {
@@ -139,6 +140,7 @@ header p {
     color: black;
     font-size: 16px;
     width: 40vw;
+    margin: 0;
 }
 
 }
