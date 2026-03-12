@@ -29,13 +29,13 @@ body {
         border-radius: 8px; /* Rounds the corners */
         margin-bottom: 15px;
     }
-    
+
 header {
     width: 100vw;
 }
 
 header p {
-    width: 40vw;
+    width: 80vw;
     margin-top: 0;
 }
 
@@ -45,6 +45,19 @@ header p {
     font-size: 1rem;
     width: 40vw;
 }
+
+#pestoImage {
+        padding: 10;
+        margin: 5;
+        color: black;
+        align-content: left;
+        background-image: url("pesto.jpeg");
+        background-position: center/cover;
+        background-repeat: no-repeat;
+        max-width: 30vw;
+        height: auto;
+        background-color: green;
+    }
 
 /* DESKTOP LAYOUT */
 
@@ -87,6 +100,7 @@ header p {
         background-color: green;
         float: right;
     }
+
 * header h1 {
     width: 80%;
     max-width: 1100px;
