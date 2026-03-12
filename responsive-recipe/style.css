@@ -61,14 +61,13 @@ header p {
 
     #pestoImage {
         padding: 10;
-        margin: 0;
+        margin: 5;
         color: black;
         align-content: left;
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
         width: 30vw;
-        left: 20vw;
         background-color: green;
         float: right;
     }
