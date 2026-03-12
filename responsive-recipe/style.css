@@ -90,11 +90,10 @@ header p {
         padding: 10;
         margin: 5;
         color: black;
-        align-content: left;
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
-        max-width: 30vw;
+        width: 50vw;
         height: auto;
         background-color: green;
         float: right;
