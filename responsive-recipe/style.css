@@ -68,10 +68,9 @@ header p {
         background-position: top right;
         background-repeat: no-repeat;
         width: 30vw;
-        left: 40vw;
+        left: 20vw;
         background-color: green;
         float: right;
-        margin-left: 10vw;
     }
 
 }
