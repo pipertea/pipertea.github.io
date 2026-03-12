@@ -35,7 +35,6 @@ header {
 }
 
 header p {
-    width: 80vw;
     margin-top: 0;
 }
 
@@ -43,18 +42,16 @@ header p {
     bottom: 5;
     color: black;
     font-size: 1rem;
-    width: 40vw;
 }
 
 #pestoImage {
         padding: 10;
         margin: 5;
         color: black;
-        align-content: left;
+        align-content: center;
         background-image: url("pesto.jpeg");
-        background-position: center/cover;
+        background-position: cover;
         background-repeat: no-repeat;
-        max-width: 30vw;
         height: auto;
         background-color: green;
     }
