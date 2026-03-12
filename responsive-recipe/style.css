@@ -79,8 +79,6 @@ header p {
         margin: 4px 2px;
         cursor: pointer;
         border: none;
-        width: 100px;
-        height: auto;
         font-family: 'Times New Roman', Times, serif;
         border-radius: 8px; /* Rounds the corners */
         margin-bottom: 15px;
@@ -94,7 +92,7 @@ header p {
         background-image: url("pesto.jpeg");
         background-position: top right;
         background-repeat: no-repeat;
-        max-width: 30vw;
+        width: 100px;
         height: auto;
         background-color: green;
         float: right;
