@@ -17,6 +17,9 @@ header {
     width: 100vw;
 }
 
+header p {
+    width: 40vw;
+}
 #rhodiTitle {
     position: absolute;
     width: 100vw;
