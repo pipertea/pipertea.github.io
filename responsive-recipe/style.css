@@ -32,11 +32,12 @@ body {
     }
 
 header {
-    width: 100vw;
+    width: 400vw;
 }
 
 header p {
     margin-top: 0;
+    width: 200vw;
 }
 
 #instructions {
