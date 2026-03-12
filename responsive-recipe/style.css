@@ -12,6 +12,7 @@ body {
     margin: 5;
     color: black;
     font-size: 30px;
+    width: 90%;
 }
 
 #jumpToRecipe {
@@ -42,6 +43,7 @@ header p {
     bottom: 5;
     color: black;
     font-size: 30px;
+    width: 90%;
 }
 
 #pestoImage {
@@ -112,6 +114,7 @@ body {
     padding: 0;
     margin: 5;
     color: black;
+    font-size: 30px;
 }
 
 header {
@@ -126,7 +129,7 @@ header p {
 #instructions {
     bottom: 5;
     color: black;
-    font-size: 1rem;
+    font-size: 30px;
     width: 40vw;
 }
 
