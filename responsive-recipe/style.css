@@ -24,8 +24,7 @@ header p {
 }
 
 #instructions {
-    position: absolute;
-    bottom: 0;
+    bottom: 5;
     color: black;
     font-size: 1rem;
     width: 40vw;
