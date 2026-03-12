@@ -42,6 +42,7 @@ header p {
     bottom: 5;
     color: black;
     font-size: 1rem;
+    max-width: 100%;
 }
 
 #pestoImage {
