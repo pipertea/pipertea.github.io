@@ -79,6 +79,8 @@ header p {
         margin: 4px 2px;
         cursor: pointer;
         border: none;
+        width: 100px;
+        height: auto;
         font-family: 'Times New Roman', Times, serif;
         border-radius: 8px; /* Rounds the corners */
         margin-bottom: 15px;
