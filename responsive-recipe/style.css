@@ -20,6 +20,7 @@ header {
 
 header p {
     width: 40vw;
+    margin-top: 0;
 }
 
 #instructions {
