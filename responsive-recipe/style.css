@@ -12,7 +12,7 @@ body {
     margin: 5;
     color: black;
     font-size: 30px;
-    width: 200vw;
+    width: 150vw;
 }
 
 #jumpToRecipe {
@@ -37,14 +37,14 @@ header {
 
 header p {
     margin-top: 0;
-    width: 200vw;
+    width: 150vw;
 }
 
 #instructions {
     bottom: 5;
     color: black;
     font-size: 30px;
-    width: 200vw;
+    width: 150vw;
 }
 
 #pestoImage {
