@@ -52,6 +52,7 @@ header p {
         align-content: center;
         background-image: url("pesto.jpeg");
         background-position: cover;
+        position: absolute;
         background-repeat: no-repeat;
         height: auto;
         background-color: green;
