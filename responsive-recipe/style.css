@@ -21,11 +21,6 @@ header {
 header p {
     width: 40vw;
 }
-#rhodiTitle {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-}
 
 #rhodiTitle h1 {
     position: absolute;
@@ -35,8 +30,6 @@ header p {
     font-size: 2.5em;
     width: calc(100vw-2em);
 }
-
-
 
 /* DESKTOP LAYOUT */
 
@@ -72,14 +65,13 @@ header p {
         color: black;
         align-content: left;
         background-image: url("pesto.jpeg");
-        background-size: contain;
         background-position: top right;
         background-repeat: no-repeat;
-        width: 40vw;
+        width: 30vw;
         left: 40vw;
         background-color: green;
         float: right;
-        margin-left: 20vw;
+        margin-left: 10vw;
     }
 
 }
