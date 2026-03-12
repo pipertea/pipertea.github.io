@@ -113,7 +113,7 @@ header p {
 
 body {
     padding: 0;
-    margin: 5;
+    margin-left: 5;
     color: black;
     font-size: 16px;
 }
