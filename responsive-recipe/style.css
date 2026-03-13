@@ -53,7 +53,7 @@ header p {
     margin: 5;
     color: black;
     align-content: center;
-    height: 40vh;
+    height: 120;
     background-color: white;
 }
 
@@ -90,7 +90,7 @@ header p {
         padding: 0;
         color: black;
         flex-direction: column;
-        max-width: 15vw;
+        height: 0;
         background-color: white;
         margin-left: 35%;
         display: flex;
