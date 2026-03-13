@@ -99,6 +99,7 @@ header p {
         height: 40vh;
         background-color: green;
         margin-left: 45%;
+        display: inline-block;
     }
 
 * header h1 {
