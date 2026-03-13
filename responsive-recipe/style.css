@@ -96,6 +96,7 @@ header p {
         color: black;
         background-image: url("pesto.jpeg");
         background-repeat: no-repeat;
+        background-size: cover;
         height: 40vh;
         background-color: green;
         margin-left: 45%;
