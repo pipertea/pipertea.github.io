@@ -54,7 +54,7 @@ header p {
     color: black;
     align-content: center;
     height: auto;
-    background-color: green;
+    background-color: white;
 }
 
 /* DESKTOP LAYOUT */
@@ -91,7 +91,7 @@ header p {
         padding: 0;
         color: black;
         height: 40vh;
-        background-color: green;
+        background-color: white;
         margin-left: 45%;
         display: flex;
         gap: 30px;
