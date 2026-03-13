@@ -53,10 +53,6 @@ header p {
     margin: 5;
     color: black;
     align-content: center;
-    background-image: url("pesto.jpeg");
-    background-position: top right;
-    background-repeat: no-repeat;
-    background-size: contain;
     height: auto;
     background-color: green;
 }
