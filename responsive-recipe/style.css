@@ -54,6 +54,7 @@ header p {
     color: black;
     align-content: center;
     background-color: white;
+    height: 0;
 }
 
 /* DESKTOP LAYOUT */
