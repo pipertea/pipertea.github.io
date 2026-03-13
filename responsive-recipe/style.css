@@ -95,6 +95,7 @@ header p {
         display: flex;
         gap: 30px;
         flex-direction: column;
+        background-repeat: no-repeat;
     }
 
     * header h1 {
