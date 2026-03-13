@@ -82,7 +82,6 @@ header p {
         border: none;
         font-family: 'Times New Roman', Times, serif;
         border-radius: 8px;
-        /* Rounds the corners */
         margin-bottom: 15px;
         display: inline-block;
     }
@@ -95,6 +94,7 @@ header p {
         margin-left: 45%;
         display: flex;
         gap: 30px;
+        flex-direction: column;
     }
 
     * header h1 {
