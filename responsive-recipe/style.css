@@ -89,7 +89,7 @@ header p {
     #pestoImage {
         padding: 0;
         color: black;
-        width: 15vw;
+        max-width: 15vw;
         background-color: white;
         margin-left: 35%;
         display: flex;
