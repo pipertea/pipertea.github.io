@@ -173,7 +173,7 @@ nav li:hover a {
         background-color: white;
         margin-left: 40%;
         display: flex;
-        max-width: 25vw;
+        max-width: 10vw;
     }
 
 #jumpToRecipe {
