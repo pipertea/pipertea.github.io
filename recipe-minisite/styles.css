@@ -1,0 +1,35 @@
+/* CSS for responsive menu */
+
+/* define variables */
+: root {
+    --nav-height: 3rem;
+    --nav-bkgd-color: gray;
+    --nav-text-color: white;
+    --nav-hover-text-color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var{--nav-height};
+    bakcground-color: var{--nav-bkgd-color};
+}
+
+#navIcon {
+    position: relative;
+    display: block;
+    font-size: 2rem;
+    color: var{--nav-text-color}
+    padding: 0.1em 0 0 0.3em;
+}
