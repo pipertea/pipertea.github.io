@@ -3,7 +3,7 @@
 /* define variables */
 root {
     --nav-height: 3rem;
-    --nav-bkgd-color: gray;
+    --nav-bkgd-color: green;
     --nav-text-color: white;
     --nav-hover-text-color: black;
 }
@@ -67,4 +67,17 @@ nav > ul > li > ul {
 
 nav > ul > li > ul > li {
     padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--nav-text-color);
+}
+
+nav li:hover {
+    background-color: var(--nav-hover-bkgd-color);
+}
+
+nav li:hover a {
+    background-color: var(--nav-hover-bkgd-color);
 }
