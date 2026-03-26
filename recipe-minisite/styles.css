@@ -119,6 +119,7 @@ nav li:hover a {
 
     nav>ul>li {
         float: left;
+        margin: 0.5rem;
     }
 
     nav>ul>li>a {
@@ -139,6 +140,7 @@ nav li:hover a {
 
     nav>ul>li>ul li {
         margin: 0;
+        white-space: nowrap;
     }
 
     nav>ul>li>a::after {
