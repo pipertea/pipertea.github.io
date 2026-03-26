@@ -23,7 +23,7 @@ nav {
     left: 0;
     width: 100%;
     height: var(--nav-height);
-    bakcground-color: var(--nav-bkgd-color);
+    background-color: var(--nav-bkgd-color);
 }
 
 #navIcon {
@@ -165,6 +165,9 @@ nav li:hover a {
     }
 }
 
+#PestoRecipe {
+    
+}
 #CDImage {
         padding: 0;
         color: black;
